@@ -112,7 +112,7 @@ public class FinalProject extends JFrame{
 		/*user login screen*/
 		
 		/*user function screen*/
-    	JPanel jpL2=new JPanel();
+    	        JPanel jpL2=new JPanel();
 		//JButton b3=new JButton("transfer");
 		JButton b4=new JButton("balance");
 		JButton b5=new JButton("withdraw");
