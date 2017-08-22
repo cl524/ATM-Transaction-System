@@ -1,4 +1,4 @@
-# Java-Project
+# ATM Transaction Database
 In this project, I establish a database system to perfrom ATM transaction functions.
 
 There is an administrator in this system database.
